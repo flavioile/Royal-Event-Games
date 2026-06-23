@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://royaleventgames.ro/sitemap.xml
